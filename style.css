@@ -6,9 +6,6 @@
     list-style-type: none;
     display: inline;
 }
-.logo{
-    text-align: center;
-}
 
 .footer{
   position: fixed;
@@ -21,5 +18,13 @@
 }
 
 .container{
+    width: 500px;
+    height: 500px;
+    position: fixed;
+    background-color: white;
+    top: 50%;
+    left: 50%;
+    margin-top: -100px;
+    margin-left: -100px;
     text-align: center;
 }
