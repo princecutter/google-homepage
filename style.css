@@ -1,3 +1,7 @@
 .top-bar{
     float: right;
+    list-style-type: none;
+}
+.footer{
+    list-style-type: none;
 }
